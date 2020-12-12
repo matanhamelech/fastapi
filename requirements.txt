@@ -1,0 +1,10 @@
+for client:
+
+required packages:
+only for ubunto- tkinter
+for both ubunto and windows- requests,cryptography
+
+for main:
+uvicorn
+cryptography
+more will come soon
